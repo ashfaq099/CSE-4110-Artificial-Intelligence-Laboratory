@@ -1,1 +1,1 @@
-# CSE-4110-Artificial-Intillegence-Laboratory
+# CSE-4110-Artificial-Intelligence-Laboratory
